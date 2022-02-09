@@ -11,6 +11,8 @@ import '@/assets/styles/global.scss'
 import '@/assets/styles/antd.scss'
 import '@/assets/styles/font.scss'
 
+import 'ant-design-vue/dist/antd.less'
+
 import Icon from '@/plugins/icon'
 import Component from '@/plugins/component'
 import Directive from '@/plugins/directive'
